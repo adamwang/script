@@ -1,0 +1,5 @@
+20120315:
+now the reflash goes to 3 step: 
+1. reflash_m1.sh --qi --data  
+2. reflash_m1.sh --release 
+3. reflash_m1.sh --bios-mac XX XX.
