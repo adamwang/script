@@ -1,0 +1,4 @@
+20120508:
+
+flterm --port /dev/ttyUSB0 --kernel ~/m1_adam/rc3_test/2011-07-13/for-rc3/boot.crc.2e778b4.bin --log ~/m1_adam/rc3_test/2011-07-13/results/tmp-results
+
