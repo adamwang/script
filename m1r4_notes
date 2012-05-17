@@ -1,0 +1,2 @@
+* generate pdf schematic under ~/milkymist/board-m1/r4$
+PATH=$PATH:/home/adam/eda-tools/schhist
