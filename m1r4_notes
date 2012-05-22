@@ -1,2 +1,12 @@
 * generate pdf schematic under ~/milkymist/board-m1/r4$
 PATH=$PATH:/home/adam/eda-tools/schhist
+
+* Fped notes:
+so the complete sequence for creating a new frame and then adding things to it is:
+1) "Add frame" on the left side
+2) edit the name of the new frame (default name "_")
+3) select the parent frame
+4) drag the new frame (click and hold the name, then drag it into the canvas) to its starting location
+5) select the new frame (on the left side again)
+6) so to the canvas and add the things you want there, starting from the frame's origin
+note that a frame can have multiple parents. e.g., if you have a vector (10, 0) and a vector (-10, 0) in the root frame, you can attach "marker" (or some other frame) to each vectors
