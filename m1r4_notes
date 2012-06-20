@@ -1,6 +1,9 @@
 * generate pdf schematic under ~/milkymist/board-m1/r4$
 PATH=$PATH:/home/adam/eda-tools/schhist
 
+see details:
+http://lists.milkymist.org/pipermail/devel-milkymist.org/2012-May/003011.html
+
 * Fped notes:
 so the complete sequence for creating a new frame and then adding things to it is:
 1) "Add frame" on the left side
